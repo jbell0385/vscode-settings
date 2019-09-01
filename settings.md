@@ -5,7 +5,7 @@
 "javascript.suggest.enabled": false,
 "editor.quickSuggestions": false,
 "editor.parameterHints": false,
-"window.zoomLevel": 1,
+"window.zoomLevel": 0,
 "editor.fontSize": 18,
 "debug.console.fontSize": 18,
 "markdown.preview.fontSize": 18,
@@ -13,5 +13,6 @@
 "editor.matchBrackets": false,
 "workbench.iconTheme": "material-icon-theme",
 "workbench.colorTheme": "Monokai",
-"editor.tabSize": 2
+"editor.tabSize": 2,
+"editor.fontFamily": "Lexend Giga"
 }
