@@ -14,5 +14,7 @@
 "workbench.iconTheme": "material-icon-theme",
 "workbench.colorTheme": "Monokai",
 "editor.tabSize": 2,
-"editor.fontFamily": "Lexend Giga"
+"editor.fontFamily": "Lexend Deca",
+"terminal.integrated.cursorStyle": "line",
+"terminal.integrated.fontFamily": "monospace",
 }
